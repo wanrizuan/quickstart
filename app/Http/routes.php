@@ -11,7 +11,6 @@
 |
 */
 
-use App\Task;
 use Illuminate\Http\Request;
 
 Route::group(['middleware' => 'web'], function () {
